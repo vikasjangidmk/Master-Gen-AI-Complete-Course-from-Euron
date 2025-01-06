@@ -9,3 +9,6 @@ pypdf==4.3.1
 wikipedia
 langchian-chroma==0.1.2
 chroma
+langserve==0.2.2
+uvicorn
+pydantic==1.10.13
