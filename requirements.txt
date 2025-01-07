@@ -7,8 +7,9 @@ bs4==0.0.2
 unstructured==0.15.0
 pypdf==4.3.1
 wikipedia
-langchian-chroma==0.1.2
+langchian-chroma
 chroma
 langserve==0.2.2
 uvicorn
 pydantic==1.10.13
+langgraph==0.1.19
