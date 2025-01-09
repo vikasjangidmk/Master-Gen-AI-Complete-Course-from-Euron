@@ -16,3 +16,5 @@ uvicorn
 langgraph
 llama-index
 openai
+google-cloud-aiplatform
+streamlit
