@@ -18,3 +18,4 @@ llama-index
 openai
 google-cloud-aiplatform
 streamlit
+boto3
