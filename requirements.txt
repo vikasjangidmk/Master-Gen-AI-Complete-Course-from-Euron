@@ -19,3 +19,14 @@ openai
 google-cloud-aiplatform
 streamlit
 boto3
+# Interview Question Generator
+langchain-core
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
